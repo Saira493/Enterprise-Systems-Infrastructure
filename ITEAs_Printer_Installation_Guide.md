@@ -1,4 +1,4 @@
-Markdown
+
 # ITEAs – Printer Installation Guide
 
 1. **Install Printer Using IP Address**
