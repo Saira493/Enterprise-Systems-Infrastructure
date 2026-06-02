@@ -1,3 +1,4 @@
+## Abstract
 The purpose of this research is to identify ways in which techniques used in organizational data
 analysis and business modeling can be used to make the sales forecast for Adidas in the US.
 Utilizing a comprehensive dataset comprising 9,653 sales records across various dimensions, the
